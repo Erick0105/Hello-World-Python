@@ -34,7 +34,7 @@ while msg != "Hello World":
         msg = msg + letra
     elif letra == "d" and msg == "Hello Worl":
         msg = msg + letra
-    time.sleep(0.05)
+    time.sleep(0.03)
     
 
 os.system('cls')
